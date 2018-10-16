@@ -35,7 +35,7 @@ user: root
 password: cisco
 
 Alpine Open-Source Source Code used for the KVM guest-os:
-http://engci-maven.cisco.com/artifactory/iox-packages/sources/alpine-3.7-src.tar
+https://devhub.cisco.com/artifactory/iox-packages/sources/alpine-3.7-src.tar
 
 
 ## IOX KVM Application Build Script Reference:
